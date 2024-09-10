@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ontiveros_gitpage/static/css/main.f855e6bc.css",
+    "main.js": "/ontiveros_gitpage/static/js/main.d75ddbb2.js",
+    "static/js/453.b482a6a1.chunk.js": "/ontiveros_gitpage/static/js/453.b482a6a1.chunk.js",
+    "static/media/logo.svg": "/ontiveros_gitpage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ontiveros_gitpage/index.html",
+    "main.f855e6bc.css.map": "/ontiveros_gitpage/static/css/main.f855e6bc.css.map",
+    "main.d75ddbb2.js.map": "/ontiveros_gitpage/static/js/main.d75ddbb2.js.map",
+    "453.b482a6a1.chunk.js.map": "/ontiveros_gitpage/static/js/453.b482a6a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d75ddbb2.js"
+  ]
+}
